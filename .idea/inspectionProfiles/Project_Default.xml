@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="site_app.models.Badge.objects" />
+          <option value="site_app.models.ClubPosition.objects" />
+          <option value="site_app.models.Event.objects" />
+          <option value="site_app.models.Photo.objects" />
+          <option value="site_app.models.Region.objects" />
+          <option value="site_app.models.Area.objects" />
+          <option value="site_app.models.ClubData.objects" />
+          <option value="site_app.models.Announcement.objects" />
+          <option value="site_app.models.PersonalData.objects" />
+          <option value="site_app.models.Content.objects" />
+          <option value="site_app.models.Conclusion.objects" />
+          <option value="site_app.models.WayOfHelp.objects" />
+          <option value="site_app.models.UserSettings.objects" />
+          <option value="django.db.models.fields.related.OneToOneField.first_name" />
+          <option value="django.db.models.fields.related.OneToOneField.last_name" />
+          <option value="site_app.models.HelpHour.objects" />
+          <option value="site_app.models.UserData.objects" />
+          <option value="site_app.models.Order.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
